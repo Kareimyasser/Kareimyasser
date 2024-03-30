@@ -40,7 +40,7 @@
 </div>
 
 ###
-
+<br clear="both">
 ![snake gif](https://github.com/Kareimyasser/Kareimyasser/blob/output/github-contribution-grid-snake.gif)
 
-
+###
